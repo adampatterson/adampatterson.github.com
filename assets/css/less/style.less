@@ -1,0 +1,60 @@
+@import 'bootstrap.less';
+
+body {
+	margin: 50px 0;
+	/*background-image: url("http://subtlepatterns.com/patterns/tapestry_pattern.png");
+	background-image: url('http://subtlepatterns.com/patterns/gplaypattern.png');
+	background-image: url('http://subtlepatterns.com/patterns/purty_wood.png');
+	background-image: url('http://subtlepatterns.com/patterns/stacked_circles.png'); 
+	background-image: url('http://subtlepatterns.com/patterns/foggy_birds.png');
+	background-image: url('http://subtlepatterns.com/patterns/ricepaper2.png');*/
+	background-image: url('http://subtlepatterns.com/patterns/bright_squares.png');
+}
+
+#wrapper {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 30px 0;
+	background-color: white;
+}
+
+.nav {
+	background-color: white;
+}
+
+h4 > small {
+	font-style: italic;
+}
+
+article {
+  .makeRow();
+
+  section {
+    .makeColumn(8);
+  }
+
+  aside {
+    .makeColumn(4);
+  }
+}
+footer {
+	.makeRow();
+	
+	section {
+	    .makeColumn(12);
+	  }
+}
+
+.progress {
+	height: 30px;
+	
+	.bar {
+		line-height: 30px;
+		text-align: left;
+		padding-left: 15px;
+	}
+}
+
+footer {
+	margin-top: 50px;
+}
