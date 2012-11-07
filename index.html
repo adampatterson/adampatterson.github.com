@@ -6,12 +6,7 @@
 <title>Adam Patterson - Curriculum Vitae</title>
 	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
 	<link rel="stylesheet" href="assets/css/style.css" type="text/css" media="screen" title="no title" charset="utf-8">
-
-	<style type="text/css" media="print">
-		.hide-print {
-			display: none;
-		}
-	</style>
+	<link rel="stylesheet" href="assets/css/print.css" type="text/css" media="print" title="no title" charset="utf-8">
 </head>
 <body>
 <div id="wrapper">
@@ -21,8 +16,27 @@
 			<section>
 
 		        <h1>Adam Patterson</h1>
-				<p class="lead">I’m a User Interface Designer & Developer with a background in UX. I have spent 5 years as a professionally certified bicycle mechanic and ride year-round.</p>
-				<p class="lead">I am a husband and father of two, Enjoy photography, music, movies, coffee, and good food.</p>
+				<div class="row show-print">
+					<div class="span4">
+						<p class="lead">
+							hello@adampatterson.ca</br >
+							http://adampatterson.ca</br >
+						</p>
+					</div>
+					<div class="span4">
+						<p class="lead">
+							Edmonton, Alberta</br >
+							780 224 8403</br >
+						</p>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="span8">
+						<p class="lead">I’m a User Interface Designer & Developer with a background in UX. I have spent 5 years as a professionally certified bicycle mechanic and ride year-round.</p>
+						<p class="lead">I am a husband and father of two, Enjoy photography, music, movies, coffee, and good food.</p>
+					</div>
+				</div>
 				
 				<div class="row">
 					<div class="span4">
@@ -63,7 +77,7 @@
 				<div class="row">
 					<div class="span4">
 						<div class="page-header">
-							<h2>I use</h2>
+							<h2>Languages I use</h2>
 						</div>
 						<ul>
 							<li>PHP / MySQL</li>
@@ -74,12 +88,11 @@
 							<li>Git / SVN</li>
 						</ul>
 						
-						
 					</div>
 					
 					<div class="span4">
 						<div class="page-header">
-							<h2>Platforms</h2>
+							<h2>Platforms I use</h2>
 						</div>
 						<ul>
 							<li>PHP</li>
@@ -88,7 +101,6 @@
 							<li>ZenCart</li>
 							<li>OpenCart</li>
 						</ul>
-						
 						
 					</div>
 					
@@ -106,11 +118,18 @@
 					<li>Text and Snippet Sharing - Service</li>
 				</ul>
 
+				<div class="page-brake hide-screen show-print">&nbsp;</div>
+
                 <div class="page-header">
-                    <h2>People I worked for</h2>
+                    <h2>Companies I worked for</h2>
                 </div> 
 
 				<h4>Mailout Interactive Inc. <small>Senior Designer / Front-End Developer 2011 - Current</small></h4>
+				<ul>
+					<li>Application Design</li>
+					<li>Front-end Development</li>
+				</ul>
+
 
                 <h4>Vision Creative Inc. <small>Graphic Design / Web Design 2009 - 2011</small></h4>
                   
@@ -166,7 +185,7 @@
 				<p>Certificate</p>
 
 				<h4>Northern Alberta Institute of Technology <small>2001-2002</small></h4>
-				<p>Multimedia</p>
+				<p>Multimedia Certificate</p>
 
 				<h4>Victoria Composite High school <small>1997-2000</small></h4>
 				<p>Diploma</p>
@@ -174,7 +193,7 @@
 			</section><!-- .content -->
 			
 			<aside>
-				<div class="well well-small">
+				<div class="well well-small hide-print">
 					<img src="http://www.adampatterson.ca/wp-content/themes/adampatterson/images/profile-adam-large.jpg" class="hide-print" alt="Adam Patterson" />
 
 	                <h3>Contact</h3>
@@ -184,12 +203,13 @@
 					</ul>
 				
 					<h3>Connect</h3>
-					<ul class="nav nav-tabs nav-stacked">
+					<ul class="nav nav-tabs nav-stacked ">
 						<li><a href="https://twitter.com/adampatterson"><i class="icon-twitter"></i> @adampatterson</a></li>
 						<li><a href="http://www.linkedin.com/in/adampatterson"><i class="icon-linkedin"></i>  Linkdin</a></li>
 						<li><a href="https://github.com/adampatterson/"><i class="icon-github"></i> Github</a></li>
-						<li class="hide-print"><a href="#"><i class="icon-print"></i> Print</a></li>	
-						<li class="hide-print"><a href="#"><i class="icon-save"></i> Download</a></li>
+						<!--
+						<li class="hide-print"><a href="#"><i class="icon-print"></i> Print</a></li>-->
+						<li class="hide-print"><a href="Adam_Patterson-Front_end_developer.pdf"><i class="icon-save"></i> Download</a></li>
 					</ul>
 				
 					<h3>Skills</h3>
@@ -201,7 +221,7 @@
 					  <div class="bar" style="width: 87%">Illustrator</div>
 					</div>
 					<div class="progress progress-success progress-striped">
-					  <div class="bar" style="width: 77%">Development</div>
+					  <div class="bar" style="width: 92%">Development</div>
 					</div>
 				</div>
             </aside>
