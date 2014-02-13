@@ -1,0 +1,64 @@
+@import 'bootstrap.less';
+
+body {
+	margin: 50px 0;
+	line-height: 1.5;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	color: #000;
+	background: none;
+	font-size: 14pt;
+}
+.container {
+	background: none;
+}
+hr {
+	background: #ccc;
+	color: #ccc;
+	width: 100%;
+	height: 2px;
+	margin: 2em 0;
+	padding: 0;
+	border: none;
+}
+hr.space {
+	background: #fff;
+	color: #fff;
+	visibility: hidden;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+}
+code {
+	font: .9em "Courier New", Monaco, Courier, monospace;
+}
+a:link, a:visited {
+	background: transparent;
+	font-weight: 700;
+	text-decoration: underline;
+}
+a:link:after, a:visited:after {
+	content: " (" attr(href) ")";
+	font-size: 90%;
+}
+
+article {
+  .make-row();
+
+  section {
+    .make-md-column(12);
+  }
+
+  aside {
+    display: none;
+  }
+
+}
+
+footer {
+	display: none;
+}
+
+.page-brake{
+	display: block;
+	height: 150px;
+}

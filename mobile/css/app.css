@@ -1,0 +1,83 @@
+@import url(http://fonts.googleapis.com/css?family=Merriweather+Sans:400,700);
+
+* {
+	padding:0;
+	margin:0;
+}
+
+
+/* Page Style */
+
+body {
+	background: #034368;
+}
+
+#logo,
+.message {
+	color: #fff;
+}
+
+#logo {
+	font-size: 100px;
+	text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+}
+.message {
+	font-size: 40px;
+	margin: 20px 0;
+}
+
+.btn-normal {
+	padding: 8px 20px;
+	border-radius: 5px;
+	background: #56bffc;
+	color: #fff;
+	text-decoration: none;
+	font-family: "Lucida Sans", sans-serif;
+}
+
+.content-resizer {
+	width:940px;
+	margin: 0 auto;
+}
+
+.img-rounded {
+	border-radius: 5px;
+	margin: 5px auto 20px auto;
+}
+
+.alt-img {
+	padding: 5px;
+	background: #fff;
+	color: #333;
+	display: inline-block;
+	border-radius: 4px;
+	margin-bottom: 20px;
+}
+
+div[data-target] {
+	margin: 0;
+	padding:0;
+	position: relative;
+	overflow:hidden;
+}
+
+div[data-target] > div {
+	text-align:center;
+	position: relative;
+}
+
+div#home {
+	background: #066093;
+}
+
+div#about {
+	background: #0670ad;
+}
+
+div#examples {
+	background: #0880c4;
+}
+
+div#contact {
+	background: #0b9bee;
+}
