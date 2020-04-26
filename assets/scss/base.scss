@@ -1,0 +1,112 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    margin: 50px 0;
+    font-size: 14px;
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 750px;
+}
+
+h4 {
+    font-size: 1.2rem;
+
+    > small {
+        color: #999999;
+        font-style: italic;
+    }
+}
+
+ul {
+    margin-bottom: 30px;
+}
+
+.lead {
+    margin-bottom: 20px;
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.show-print {
+    display: none;
+}
+
+.hide-print {
+    display: flex;
+}
+
+@media print {
+    body {
+        margin: 50px 0 !important;
+        line-height: 1.5 !important;
+        font-family: "Helvetica Neue", Arial, Helvetica, sans-serif !important;
+        color: #000 !important;
+        background: none !important;
+        font-size: 14pt !important;
+    }
+
+    .container {
+        background: none;
+    }
+
+    hr {
+        background: #ccc;
+        color: #ccc;
+        width: 100%;
+        height: 2px;
+        margin: 2em 0;
+        padding: 0;
+        border: none;
+    }
+
+    hr.space {
+        background: #fff !important;
+        color: #fff !important;
+        visibility: hidden !important;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Roboto', sans-serif !important;
+    }
+
+    a:link, a:visited {
+        background: transparent !important;
+        font-weight: 700 !important;
+        text-decoration: underline !important;
+    }
+
+    //a:link:after, a:visited:after {
+    //    content: " (" attr(href) ")";
+    //    font-size: 90%;
+    //}
+
+    small {
+        color: #000000 !important;
+    }
+
+    footer {
+        display: none !important;
+    }
+
+    .page-brake {
+        display: block !important;
+        height: 200px !important;
+    }
+
+    .show-print {
+        display: flex !important;
+    }
+
+    .hide-print {
+        display: none !important;
+    }
+}
