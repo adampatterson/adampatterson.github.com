@@ -40,8 +40,12 @@ ul {
     display: none;
 }
 
-.hide-print {
-    display: flex;
+//.hide-print {
+//    display: flex;
+//}
+
+.li-disk {
+    list-style-type: circle;
 }
 
 @media print {
