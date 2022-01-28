@@ -1,5 +1,4 @@
 let mix = require('laravel-mix')
-let glob = require('glob-all')
 
 require('laravel-mix-purgecss')
 
@@ -14,9 +13,9 @@ mix.setPublicPath('./')
 
    .purgeCss(
        {
-           enabled: mix.inProduction(),
-           content: [
-               path.join(__dirname, './index.html'),
+           enabled: false,
+           paths: () => [
+               path.join(__dirname, './'),
            ],
            extensions: ['html', 'js', 'php'],
        }
