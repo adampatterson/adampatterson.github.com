@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography";
+
+@theme {
+    --font-display: "Roboto", sans-serif;
+    --font-roboto: "Roboto", sans-serif;
+}
+
+/* Custom component utilities to replace small Bootstrap helpers used in index.html */
+@layer components {
+    .page-header {
+        @apply mb-4 border-b pb-2;
+    }
+}
+
+@layer utilities {
+    .hide-print {
+        @apply print:hidden;
+    }
+
+    .show-print {
+        @apply hidden print:block;
+    }
+
+    .logo {
+        @apply max-w-full h-auto;
+    }
+
+    .profile-img {
+        @apply rounded-full max-w-full h-auto;
+    }
+
+    .lead {
+        @apply text-lg md:text-xl leading-relaxed;
+    }
+
+    a:link, a:visited {
+        @apply text-blue-500 hover:text-blue-700;
+    }
+
+    h3 small {
+        @apply text-[80%];
+    }
+
+    ul.paragraph {
+        /*@apply ps-0;*/
+
+        li {
+            @apply
+            /*list-outside*/
+            /*list-none */
+            mb-2 ps-0;
+        }
+    }
+}
