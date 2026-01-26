@@ -48,10 +48,14 @@
         /*@apply ps-0;*/
 
         li {
-            @apply
+            /*@apply*/
             /*list-outside*/
             /*list-none */
-            mb-2 ps-0;
+            /*mb-2 ps-0;*/
         }
+    }
+
+    hr {
+        @apply print:!my-8;
     }
 }
