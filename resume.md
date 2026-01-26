@@ -1,12 +1,10 @@
-Hi there 👋
+Senior PHP developer and web engineer with deep experience in Laravel, WordPress, and WooCommerce. Skilled at building scalable web applications, CMS integrations, and high-performing multi-site platforms. Brings a thoughtful approach to UX, analytics, and process optimization while collaborating with agencies, startups, and government clients.
 
-Experienced developer and maker with a strong background in web development, product analytics, and customer journey tracking. Skilled in PHP, Laravel, WordPress, and modern web technologies, delivering high-quality solutions for creative agencies, established brands, startups, and government clients. Brings a thoughtful approach to the user experience while focusing on connecting systems, optimizing processes, and driving continuous improvement through creative problem-solving and collaboration.
-
-hello@adampatterson.ca  
 [https://adampatterson.ca](https://adampatterson.ca/)  
 [https://github.com/adampatterson](https://github.com/adampatterson)  
 [https://www.linkedin.com/in/adampatterson](https://www.linkedin.com/in/adampatterson)
 
+hello@adampatterson.ca  
 Edmonton, Alberta  
 780 224 8403
 
@@ -14,44 +12,11 @@ Edmonton, Alberta
 
 ## **Skills**
 
-#### **AI:**
-
-* Agents, MCP Servers (custom and existing), Prompt Guides, and Prompt plans
-
-#### **Programming:**
-
-* PHP, Laravel, Filament PHP, Livewire, WordPress, WooCommerce, MySQL, Redis, Memcached
-
-#### **Technologies:**
-
-* Tailwind, Bootstrap, JavaScript with Some React & Vue, SCSS, CSS, SSH, LEMP, Vite, Webpack
-
-#### **Tools:**
-
-* macOS, Linux, PHP Storm, VS Code, Laravel Forge, Digital Ocean and AWS, Flywheel, GitHub / Automations / Copilot PR's / Issues / Projects, BitBucket, Docker, Figma, Asana, Adobe
-
-#### **Analytics:**
-
-* Algolia, Segment.io, Amplitude, Mixpanel
-
----
-
-## **Interests**
-
-* Creative problem solving
-* Brainstorming
-* Clean Design
-* Semantic Markup
-* Web Standards
-* MVC Pattern
-* Development
-* Interface Prototyping
-* Lean UX
-* Content Management
-* Online Applications
-* Consulting
-* Application Interface Design
-* User Testing
+Core Stack: PHP, Laravel, Filament, Livewire, Statamic, WordPress, WooCommerce, MySQL  
+Frontend & Styling: Tailwind, Bootstrap, SCSS, JS (React & Vue)  
+Infrastructure & Tooling: Forge, AWS, DigitalOcean, LEMP, Git, CI/CD  
+Analytics & Search: Algolia, Segment, Amplitude, Mixpanel  
+AI & Automation: AI agents, MCP servers, prompt design, workflow automation
 
 ---
 
@@ -67,28 +32,30 @@ Edmonton, Alberta
 * Implemented fast, relevant search experiences using Algolia and integrated third-party data sources (Simpleview, Open Data)
 * Led legacy system redevelopment and data migration efforts using progressive enhancement strategies
 * Applied proven software design patterns to ensure scalability, reliability, and long-term maintainability
+* Leveraged AI-assisted workflows and automation to improve development efficiency and internal tooling
 
 #### **Notable Work:**
 
 * True Blue
-    * Led the redevelopment and data migration of a legacy, multi-instance WinForms application using Laravel, Filament PHP, and Livewire
-    * Introduced a progressive enhancement approach to deliver immediate value while enabling continuous, iterative improvements
-    * Collaborated closely with the client to refine business logic, streamline workflows, and modernize operational processes
-    * Reduced manual effort and improved overall operational efficiency through thoughtful application design
-    * Managed evolving project requirements while consistently delivering high-quality, maintainable solutions
+  * Led the redevelopment and data migration of a legacy, multi-instance WinForms application using Laravel, Filament PHP, and Livewire
+  * Introduced a progressive enhancement approach to deliver immediate value while enabling continuous, iterative improvements
+  * Collaborated closely with the client to refine business logic, streamline workflows, and modernize operational processes
+  * Reduced manual effort and improved overall operational efficiency through thoughtful application design
+  * Managed evolving project requirements while consistently delivering high-quality, maintainable solutions
 * Tourism Calgary
-    * Integrated Statamic CMS for flexible content management
-    * Connected with Simpleview for tourism data synchronization
-    * Utilized Calgary Open Data to enrich site content
-    * Implemented Algolia for fast, relevant search experiences
-    * Designed and maintained a load-balanced infrastructure
-    * Developed and managed a robust queue system for background processing
-    * Applied software design patterns to ensure code quality and scalability
+  * Integrated Statamic CMS for flexible content management
+  * Connected with Simpleview for tourism data synchronization
+  * Utilized Calgary Open Data to enrich geographic data
+  * Implemented Algolia for fast, relevant search experiences
+  * Designed and maintained a load-balanced infrastructure
+  * Developed and managed a queue system for background processing
+  * Applied software design patterns to ensure code flexability, quality, and scalability
 * The City of Beaumont
-    * Enabled the City of Beaumont to migrate from a proprietary Civic CMS to WordPress
-    * Created and implemented data governance practices to ensure data integrity and consistency
-    * Integrated events calendar and sitewide search, including document indexing
-    * Developed sitewide notices with emergency alert functionality
+  * Enabled the City of Beaumont to migrate from a proprietary Civic CMS to WordPress
+  * Created and implemented data governance practices to ensure data integrity and consistency
+  * Drastically improved page speed by making effective use of static caching.
+  * Integrated events calendar and site-wide search, including document indexing
+  * Developed site-wide notices with emergency alert functionality
 
 ### **BubbleUP Marketing**
 
@@ -100,21 +67,20 @@ Edmonton, Alberta
 
 ### **Strathcom Media**
 
-### ***lead Developer 2020 \- 2020 / 6 months***
+### ***Lead Developer 2020 \- 2020 / 6 months***
 
-### ***lead Developer 2016 \- 2017 / 6 months***
+### ***Lead Developer 2016 \- 2017 / 6 months***
 
 * Streamlined a custom WordPress-based dealership CMS
-* Documented and improved installation processes to accelerate developer onboarding
 * Evaluated and integrated third-party solutions for hosting, search, and server monitoring
 * Implemented a caching strategy that reduced server load by \~50% and improved average load times from \~2,000ms to \~900ms
 
 ### **Go Auto \- Corporate**
 
-### ***lead Developer / Front-End Developer 2014 – August 2020***
+### ***Lead Developer / Front-End Developer 2014 – August 2020***
 
 * Led development and maintenance of Go Auto’s corporate, dealership, and marketing websites over 6+ years
-* Managed a small team supporting 40+ Laravel and WordPress sites on optimized AWS infrastructure
+* Managed a small team of 4, supporting 40+ Laravel and WordPress sites on optimized AWS infrastructure
 * Designed a scalable Laravel-based architecture for rapid site creation
 * Ensured high performance, stability, and brand consistency across OEM and internal guidelines
 * Implemented customer deanonymization, event tracking, and analytics to support strategic marketing decisions
@@ -123,7 +89,7 @@ Edmonton, Alberta
 
 ### **ANVL Creative**
 
-### ***Senior Front-End Developer 2015 \- Current***
+### ***Senior Front-End Developer 2015 \- Current \- Contract / Part-time***
 
 * Developed successful hospitality industry websites for ANVL Creative
 * Improved site performance and reduced hosting overhead
@@ -158,65 +124,27 @@ Edmonton, Alberta
 
 * At Vision Creative, I was responsible for the development and ongoing maintenance of all new and existing client projects across a wide range of industries.
 
-### **eventIQ**
-
-### ***Graphic Design / Web Design / User Experience / Support 2009 \- 2009***
-
-* Integrated Unfuddle with HelpSpot to improve developer visibility into customer support requests
-* Implemented new features using the Zend Framework
-* Supported customer success through ongoing enhancements and issue resolution
-
 ### **nForm**
 
 ### **Graphic Design / Web Design / User Experience 2007 \- 2009**
 
 * While at nForm, I worked across graphic design, web design, prototyping, and usability testing, contributing to a range of client projects in Government, Education, and technology.
 
-#### **Notable Projects**
-
-* Alberta Education \- Front End Development, and Graphic Design
-
-### **Revolution Cycle \- Part-time**
-
-### ***Bike Mechanic / Service Technician \- 2013 \- 2015***
-
-* I enjoyed working at Revolution Cycle part-time over the summers, helping to pick up shifts on the weekends building and servicing bikes.
-
-### **United Cycle**
-
-### ***Bike Mechanic / Service Technician \- 2003 \- 2007***
-
-* Improved the service check-in process, significantly reducing customer wait times and increasing departmental profitability
-* Tested and trained new mechanics
-* Built and serviced hundreds of bicycles
-
 ---
 
 ## **OpenSource and other Projects**
 
+* [Starter Template](https://github.com/adampatterson/template-wordpress) \- WordPress Starter Template
+* [Axe](https://github.com/adampatterson/Axe) \- WordPress Starter theme
 * [WordPress oAuth \- Composer Package](https://github.com/adampatterson/wpoauth)
 * [Request PHP \- Composer Package](https://github.com/adampatterson/request)
 * [HTTP \- Composer Package](https://github.com/adampatterson/http)
-* [Numeral](https://github.com/adampatterson/numeral) \- PHP clone of Numeral.js
-* [Axe](https://github.com/adampatterson/Axe) \- WordPress Starter themes
-* Tentacle CMS
-* Serpent \- Restful API to manage Tentacle CMS core and plugin updates.
-* Chyrp CMS \- UI/UX
-* Candy CMS
-* PHP Collab \- UI/UX
-* Bicycle Spoke Calculator \- App
-* URL Shortener \- App
-* Text and Snippet Sharing \- Service
+* [Numeral](https://github.com/adampatterson/numeral)
 
 ---
 
 ## **My Education**
 
-#### **SRAM Technical University Certificate 2003**
-
-#### **United Bicycle Institute Certificate 2002**
-
 #### **Northern Alberta Institute of Technology \- The program was previously through Alberta College Multimedia Diploma 2001-2002**
 
 #### **Victoria Composite High school Diploma 1997-2000**
-
