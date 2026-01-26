@@ -12,7 +12,6 @@ export default defineConfig({
         rollupOptions: {
             input: {
                 main: resolve(__dirname, 'index.html'),
-                recruiter: resolve(__dirname, 'recruiter/index.html'),
                 cover: resolve(__dirname, 'cover/index.html'),
                 wip: resolve(__dirname, 'wip/index.html'),
             },
