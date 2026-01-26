@@ -11,10 +11,9 @@ export default defineConfig({
     build: {
         rollupOptions: {
             input: {
-                // Define an entry point for the main index.html
                 main: resolve(__dirname, 'index.html'),
-                // Define an entry point for the nested index.html
-                nested: resolve(__dirname, 'cover/index.html'),
+                wip: resolve(__dirname, 'index.wip.html'),
+                cover: resolve(__dirname, 'cover/index.html'),
             },
         },
     },
