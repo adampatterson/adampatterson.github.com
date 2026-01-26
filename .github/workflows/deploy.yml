@@ -36,6 +36,10 @@ jobs:
       - name: Build with Vite
         run: npm run build
 
+      # Add this step to copy the PDF
+      - name: Copy PDF to dist
+        run: cp Adam-Patterson-Senior-PHP-Developer.pdf dist/
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
