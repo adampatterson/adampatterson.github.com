@@ -25,7 +25,7 @@ Edmonton, Alberta
   system integration
 * **Analytics & Search:** Algolia, Segment, Amplitude, Mixpanel
 * **AI & Automation:** AI agents, MCP servers, prompt design, workflow automation
-* **Teamwork:** Cross-functional collaboration, Pair Programing, Mentoring newer developers
+* **Teamwork:** Cross-functional collaboration, Pair Programming, Mentoring newer developers
 
 ---
 
@@ -74,9 +74,9 @@ Edmonton, Alberta
 
 ### ***Senior Web Developer | December 2020 – March 2022***
 
-* Maintained and enhanced existing client web applications, integrating new features and improvements
-* Built custom WordPress sites from scratch using Elementor and WooCommerce
-* Applied modern development practices, including OOP, Composer, and build tools
+- Maintained and enhanced existing client web applications, integrating new features and improvements
+- Built custom WordPress sites from scratch using Elementor and WooCommerce
+- Applied modern development practices, including OOP, Composer, and build tools
 
 ### **Go Auto \- Corporate**
 
@@ -99,9 +99,9 @@ Edmonton, Alberta
 
 ### ***Senior Front-End Developer | 2015 - Current - Contract / Part-time***
 
-* Built and maintained more than 15 high-traffic hospitality websites
-* Improved performance and reduced hosting overhead by nearly 50%
-* Developed flexible WordPress and WooCommerce sites using a custom parent/child theme system
+- Built and maintained more than 15 high-traffic hospitality websites
+- Improved performance and reduced hosting overhead by nearly 50%
+- Developed flexible WordPress and WooCommerce sites using a custom parent/child theme system
 
 #### **Notable Projects:**
 
