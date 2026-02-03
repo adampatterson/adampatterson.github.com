@@ -71,9 +71,9 @@
 </head>
 <body>
 
-<div class="container max-w-3xl mx-auto px-4 mb-12">
+<div class="container max-w-4xl mx-auto px-4 mb-12 print:mb-0">
     <header>
-        <div class="flex flex-wrap justify-between mt-12 mb-12">
+        <div class="flex flex-wrap justify-between mt-12 mb-12 print:mt-0">
             <div class="sm:w-1/2 name w-full mt-12">
                 <h1 class="text-4xl">Adam Patterson</h1>
             </div>
@@ -117,7 +117,9 @@
                 time and consideration.</p>
 
             <p>Sincerely,<br>
-                Adam Patterson</p>
+                Adam Patterson
+                <span class="hidden print:!block"><a href="https://cv.adampatterson.ca/">cv.adampatterson.ca</a>.</span>
+            </p>
 
             <p class="hide-print">My resume can be found <a href="https://cv.adampatterson.ca/">here</a>.</p>
             <div class="flex flex-wrap print:hidden">
