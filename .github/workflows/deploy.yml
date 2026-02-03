@@ -36,9 +36,12 @@ jobs:
       - name: Build with Vite
         run: npm run build
 
-      # Add this step to copy the PDF
-      - name: Copy PDF to dist
+      #  "publish" the PDF by copying it to the dist folder
+      - name: Copy Resume to dist
         run: cp Adam-Patterson-Senior-PHP-Developer.pdf dist/
+
+      - name: Copy Cover letter to dist
+        run: cp Adam-Patterson-Senior-PHP-Developer-cover.pdf dist/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

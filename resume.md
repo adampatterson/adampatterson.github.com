@@ -33,7 +33,7 @@ Edmonton, Alberta
 
 ### **Paper Leaf**
 
-### ***Senior Web Developer | March 2022 – January 2026***
+### ***Senior Web Developer | March 2022 - January 2026***
 
 - Implemented fast, relevant search experiences using Algolia and integrated third-party data sources (Simpleview, Open Data)
 - Designed and maintained load-balanced infrastructure, background queue systems, and scheduled automation workflows
@@ -48,10 +48,10 @@ Edmonton, Alberta
 #### **Notable Work:**
 
 * True Blue
-    * Led the redevelopment and data migration of a legacy, multi-instance WinForms application using Laravel, Filament PHP, and Livewire
+    * Led the redevelopment and data migration of a legacy, multi-instance WinForms application using Laravel, Filament, and Livewire
     * Introduced a progressive enhancement approach to deliver immediate value while enabling continuous, iterative improvements
     * Collaborated closely with the client to refine business logic, streamline workflows, and modernize operational processes
-    * Saved dozens of human hours each month by modernizing a legacy WinForms application using Laravel and Filament PHP, effectively streamlining business logic and
+    * Saved dozens of human hours each month by modernizing legacy WinForms application flows using Laravel and Filament, effectively streamlining business logic and
       eliminating manual workflows.
     * Managed evolving project requirements while delivering high-quality, maintainable solutions
 * [Tourism Calgary](https://www.visitcalgary.com/)
@@ -59,7 +59,6 @@ Edmonton, Alberta
     * Leveraged Statamic CMS for flexible content management and predictable content style
     * Integrated Simpleview CRM, Implementing 15-minute synchronizations that replaced nightly batch updates
     * Used Calgary Open Data to enrich geographic neighborhood data
-    * Implemented Algolia for fast, relevant search experiences
     * Implemented Algolia search indexing 1,000+ listings, and multiple content collections, with complex taxonomies, achieving sub-100ms response times.
     * Developed and managed a queue system for background processing
     * Applied software design patterns to ensure code flexibility, quality, and scalability
@@ -72,7 +71,7 @@ Edmonton, Alberta
 
 ### **BubbleUP Marketing**
 
-### ***Senior Web Developer | December 2020 – March 2022***
+### ***Senior Web Developer | December 2020 - March 2022***
 
 - Maintained and enhanced existing client web applications, integrating new features and improvements
 - Built custom WordPress sites from scratch using Elementor and WooCommerce
@@ -80,7 +79,7 @@ Edmonton, Alberta
 
 ### **Go Auto \- Corporate**
 
-### ***Lead Developer / Front-End Developer | 2014 – August 2020***
+### ***Lead Developer / Front-End Developer | 2014 - August 2020***
 
 ### ***(Includes leadership roles with Strathcom Media, a Go Auto subsidiary)***
 
@@ -103,7 +102,7 @@ Edmonton, Alberta
 - Improved performance and reduced hosting overhead by nearly 50%
 - Developed flexible WordPress and WooCommerce sites using a custom parent/child theme system
 
-#### **Notable Projects:**
+#### **Notable Work:**
 
 * [Apex Brewing](https://apexbrewing.ca/)
 * [Central Social Hall](https://centralsocialhall.com/)
@@ -112,7 +111,7 @@ Edmonton, Alberta
 * [Sorrentino's](https://www.sorrentinos.com/)
 * [XIX Nineteen](https://dinenineteen.com/)
 
-### **Early Career *Front-End & Design Roles (2007–2014)***
+### **Early Career *Front-End & Design Roles (2007-2014)***
 
 * Built application interfaces, CMS-driven websites, and responsive layouts for agencies and product teams
 * Worked closely with clients to support delivery, usability, and long-term success
