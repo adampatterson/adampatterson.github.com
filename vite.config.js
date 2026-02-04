@@ -13,7 +13,7 @@ export default defineConfig({
             input: {
                 main: resolve(__dirname, 'index.html'),
                 cover: resolve(__dirname, 'cover/index.html'),
-                una: resolve(__dirname, 'cover/una.html'),
+                // una: resolve(__dirname, 'cover/una.html'),
                 // "cover-wip": resolve(__dirname, 'wip/cover.html'),
                 wip: resolve(__dirname, 'wip/index.html'),
             },
