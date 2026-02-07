@@ -47,27 +47,27 @@ Edmonton, Alberta
 
 #### **Notable Work:**
 
-* True Blue
-    * Led the redevelopment and data migration of a legacy, multi-instance WinForms application using Laravel, Filament, and Livewire
-    * Introduced a progressive enhancement approach to deliver immediate value while enabling continuous, iterative improvements
-    * Collaborated closely with the client to refine business logic, streamline workflows, and modernize operational processes
-    * Saved dozens of human hours each month by modernizing legacy WinForms application flows using Laravel and Filament, effectively streamlining business logic and
+- True Blue
+    - Led the redevelopment and data migration of a legacy, multi-instance WinForms application using Laravel, Filament, and Livewire
+    - Introduced a progressive enhancement approach to deliver immediate value while enabling continuous, iterative improvements
+    - Collaborated closely with the client to refine business logic, streamline workflows, and modernize operational processes
+    - Saved dozens of human hours each month by modernizing legacy WinForms application flows using Laravel and Filament, effectively streamlining business logic and
       eliminating manual workflows.
-    * Managed evolving project requirements while delivering high-quality, maintainable solutions
-* [Tourism Calgary](https://www.visitcalgary.com/)
-    * [Gold AVA Digital Award](https://enter.amcpros.com/ava/entry/tourism-calgary-website/)
-    * Leveraged Statamic CMS for flexible content management and predictable content style
-    * Integrated Simpleview CRM, Implementing 15-minute synchronizations that replaced nightly batch updates
-    * Used Calgary Open Data to enrich geographic neighborhood data
-    * Implemented Algolia search indexing 1,000+ listings, and multiple content collections, with complex taxonomies, achieving sub-100ms response times.
-    * Developed and managed a queue system for background processing
-    * Applied software design patterns to ensure code flexibility, quality, and scalability
-* [The City of Beaumont](https://www.beaumont.ab.ca/)
-    * Enabled the City of Beaumont to migrate from CivicPlus to WordPress
-    * Implemented repeatable content patterns to ensure data governance
-    * More than doubled page speed by making effective use of static caching
-    * Developed public and critical notices functionality
-    * Integrated events calendar with ticketing, sitewide search, including document indexing
+    - Managed evolving project requirements while delivering high-quality, maintainable solutions
+- [Tourism Calgary](https://www.visitcalgary.com/)
+    - [Gold AVA Digital Award](https://enter.amcpros.com/ava/entry/tourism-calgary-website/)
+    - Leveraged Statamic CMS for flexible content management and predictable content style
+    - Integrated Simpleview CRM, Implementing 15-minute synchronizations that replaced nightly batch updates
+    - Used Calgary Open Data to enrich geographic neighborhood data
+    - Implemented Algolia search indexing 1,000+ listings, and multiple content collections, with complex taxonomies, achieving sub-100ms response times.
+    - Developed and managed a queue system for background processing
+    - Applied software design patterns to ensure code flexibility, quality, and scalability
+- [The City of Beaumont](https://www.beaumont.ab.ca/)
+    - Enabled the City of Beaumont to migrate from CivicPlus to WordPress
+    - Implemented repeatable content patterns to ensure data governance
+    - More than doubled page speed by making effective use of static caching
+    - Developed public and critical notices functionality
+    - Integrated events calendar with ticketing, sitewide search, including document indexing
 
 ### **BubbleUP Marketing**
 
@@ -77,9 +77,11 @@ Edmonton, Alberta
 - Built custom WordPress sites from scratch using Elementor and WooCommerce
 - Applied modern development practices, including OOP, Composer, and build tools
 
+#### **Notable Work:**
+
 ### **Go Auto \- Corporate**
 
-### ***Lead Developer / Front-End Developer | 2014 - August 2020***
+### ***Lead Developer / Front-End Developer | 2014 - December 2020***
 
 ### ***(Includes leadership roles with Strathcom Media, a Go Auto subsidiary)***
 
