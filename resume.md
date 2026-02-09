@@ -109,7 +109,7 @@ Edmonton, Alberta
 * [Apex Brewing](https://apexbrewing.ca/)
 * [Central Social Hall](https://centralsocialhall.com/)
 * [Century Hospitality Group](https://centuryhospitality.com/)
-* [Robert SpencerHospitality](https://robertspencerhosp.com/)
+* [Robert Spencer Hospitality](https://robertspencerhosp.com/)
 * [Sorrentino's](https://www.sorrentinos.com/)
 * [XIX Nineteen](https://dinenineteen.com/)
 
