@@ -98,7 +98,7 @@ Edmonton, Alberta
 
 ### **ANVL Creative**
 
-### ***Senior Front-End Developer | 2015 - Current - Contract / Part-time***
+### ***Senior Front-End Developer | 2015 - December 2025 - Contract / Part-time***
 
 - Built and maintained more than 15 high-traffic hospitality websites
 - Improved performance and reduced hosting overhead by nearly 50%
