@@ -7,9 +7,39 @@
     --font-display: "Roboto", sans-serif;
     --font-roboto: "Roboto", sans-serif;
 }
+/* Default prose (base 16px) */
+.prose :is(ul ul, ul ol, ol ul, ol ol) {
+    margin-top: 0;
+    margin-bottom: 0;
+}
 
-/* Custom component utilities to replace small Bootstrap helpers used in index.html */
+/* prose-sm (14px base) */
+.prose-sm :is(ul ul, ul ol, ol ul, ol ol) {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/* prose-lg (18px base) */
+.prose-lg :is(ul ul, ul ol, ol ul, ol ol) {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/* prose-xl (20px base) */
+.prose-xl :is(ul ul, ul ol, ol ul, ol ol) {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/* prose-2xl (24px base) */
+.prose-2xl :is(ul ul, ul ol, ol ul, ol ol) {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/* Direct CSS override for nested lists */
 @layer components {
+    /* Custom component utilities to replace small Bootstrap helpers used in index.html */
     .page-header {
         @apply mb-4 border-b pb-2;
     }
@@ -42,17 +72,6 @@
 
     h3 small {
         @apply text-[80%];
-    }
-
-    ul.paragraph {
-        /*@apply ps-0;*/
-
-        li {
-            /*@apply*/
-            /*list-outside*/
-            /*list-none */
-            /*mb-2 ps-0;*/
-        }
     }
 
     hr {
