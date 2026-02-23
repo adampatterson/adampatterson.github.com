@@ -2,7 +2,7 @@
 
 ### Senior PHP Developer
 
-Senior PHP developer and web engineer with deep experience in Laravel, WordPress, and WooCommerce. Skilled at building scalable web applications, CMS integrations, system
+Senior PHP developer and web engineer with deep experience with Laravel, WordPress, and WooCommerce. Skilled at building scalable web applications, CMS integrations, system
 integrations, and high-performing multi-site platforms. Brings a thoughtful approach to UX, analytics, and process optimization while collaborating with agencies, startups,
 and government clients.
 
@@ -35,39 +35,53 @@ Edmonton, Alberta
 
 ### ***Senior Web Developer | March 2022 - January 2026***
 
-- Implemented fast, relevant search experiences using Algolia and integrated third-party data sources (Simpleview, Open Data)
-- Designed and maintained load-balanced infrastructure, background queue systems, and scheduled automation workflows
-- Led legacy system redevelopment and data migration efforts using progressive enhancement strategies
-- Increased development efficiency 10% by designing and implementing AI-assisted workflows
-- Integrated and extended CMS platforms (Statamic, WordPress) to support flexible content models and data governance
-- Mentored and supported junior developers through code reviews, technical guidance, and knowledge sharing
-- Partnered closely with designers, project managers, and clients to translate business requirements into scalable technical solutions
+- Led multiple projects as lead developer, providing technical strategy and leadership while mentoring developers, unblocking technical challenges, and ensuring team alignment
+- Translated information architectures into structured schemas for CMS platforms, database designs, and API endpoints to support content consistency, findability, and
+  data integrity
+- Implemented fast, relevant search experiences using Algolia and integrated third-party data
+  sources (Simpleview, Open Data)
+- Designed and maintained load-balanced infrastructure, background queue systems, and
+  scheduled automation workflows
 - Led and contributed to large-scale web and application projects across tourism, public sector, and enterprise clients
-- Applied proven software design patterns to ensure scalability, reliability, and long-term maintainability
+- Increased development efficiency 10% by designing and implementing AI-assisted workflows
+- Integrated and extended CMS platforms (Statamic, WordPress, and custom headless integrations using Laravel) to support flexible content models and data governance
+- Enabled content governance through thoughtful creation of components, templates, and automated processes
+- Mentored and supported junior developers through code reviews, technical guidance, and
+  knowledge sharing
+- Partnered closely with designers, project managers, and clients to translate business
+  requirements into scalable technical solutions
+- Provided technical strategy for hosting, system requirements, and infrastructure decisions across client projects
+- Applied proven software design patterns to ensure scalability, reliability, and long-term
+  maintainability
 
 #### **Notable Work:**
 
 - True Blue
     - Led the redevelopment and data migration of a legacy, multi-instance WinForms application using Laravel, Filament, and Livewire
     - Introduced a progressive enhancement approach to deliver immediate value while enabling continuous, iterative improvements
-    - Collaborated closely with the client to refine business logic, streamline workflows, and modernize operational processes
+    - Collaborated closely with the client in an agile process, using user feedback and testing to prove concepts early and establish a common language between technical
+      and non-technical stakeholders
     - Saved dozens of human hours each month by modernizing legacy WinForms application flows using Laravel and Filament, effectively streamlining business logic and
       eliminating manual workflows.
     - Managed evolving project requirements while delivering high-quality, maintainable solutions
 - [Tourism Calgary](https://www.visitcalgary.com/)
     - [Gold AVA Digital Award](https://enter.amcpros.com/ava/entry/tourism-calgary-website/)
     - Leveraged Statamic CMS for flexible content management and predictable content style
+    - Translated information architecture into structured schemas for use across the CMS
+    - Indexed content for both internal site search and external findability through search engines and related content linking
     - Integrated Simpleview CRM, Implementing 15-minute synchronizations that replaced nightly batch updates
-    - Used Calgary Open Data to enrich geographic neighborhood data
-    - Implemented Algolia search indexing 1,000+ listings, and multiple content collections, with complex taxonomies, achieving sub-100ms response times.
+    - Used Calgary Open Data to enrich geospatial neighborhood data
+    - Implemented Algolia search indexing 1,500+ listings, and multiple content collections, with complex taxonomies, achieving sub-100ms response times.
     - Developed and managed a queue system for background processing
     - Applied software design patterns to ensure code flexibility, quality, and scalability
 - [The City of Beaumont](https://www.beaumont.ab.ca/)
     - Enabled the City of Beaumont to migrate from CivicPlus to WordPress
+    - Defined data schemas and converted them into structured content within the CMS
     - Implemented repeatable content patterns to ensure data governance
     - More than doubled page speed by making effective use of static caching
     - Developed public and critical notices functionality
-    - Integrated events calendar with ticketing, sitewide search, including document indexing
+    - Indexed content and documents for both internal sitewide search and external findability, including document indexing
+    - Integrated events calendar with ticketing
 
 ### **BubbleUP Marketing**
 
@@ -91,6 +105,8 @@ Edmonton, Alberta
 - Designed a scalable Laravel architecture to support rapid site creation and reuse
 - Architected Docker-based deployment workflows using a reverse proxy to improve environment consistency and release reliability
 - Streamlined a custom WordPress-based dealership CMS to improve performance and long-term maintainability
+- Created data structures and content patterns to ensure content consistency and governance across 40+ dealership and makereing sites
+- Implemented a custom headless CMS through WordPress
 - Implemented customer tracking, analytics, and event instrumentation to support data-driven marketing decisions
 - Served as lead developer for Strathcom Media (Go Auto subsidiary), improving delivery consistency and technical quality across internal agency initiatives
 - Improved developer onboarding by documenting and standardizing installation and setup processes
@@ -123,7 +139,3 @@ Edmonton, Alberta
 ## **My Education**
 
 #### **Northern Alberta Institute of Technology Multimedia Diploma 2001-2002**
-
-- Improved the service check-in process, significantly reducing customer wait times and increasing departmental profitability
-- Tested and trained new mechanics
-- Built and serviced hundreds of bicycles
