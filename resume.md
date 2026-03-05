@@ -93,6 +93,9 @@ Edmonton, Alberta
 
 #### **Notable Work:**
 
+- [Black Gold School Division](https://www.blackgold.ca/)
+- [Maple Crest Homes](https://livemaplecrest.com/)
+
 ### **Go Auto \- Corporate**
 
 ### ***Lead Developer / Front-End Developer | 2014 - December 2020***
