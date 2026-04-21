@@ -108,7 +108,7 @@ Edmonton, Alberta
 - Designed a scalable Laravel architecture to support rapid site creation and reuse
 - Architected Docker-based deployment workflows using a reverse proxy to improve environment consistency and release reliability
 - Streamlined a custom WordPress-based dealership CMS to improve performance and long-term maintainability
-- Created data structures and content patterns to ensure content consistency and governance across 40+ dealership and makereing sites
+- Created data structures and content patterns to ensure content consistency and governance across 40+ dealership and marketing sites
 - Implemented a custom headless CMS through WordPress
 - Implemented customer tracking, analytics, and event instrumentation to support data-driven marketing decisions
 - Served as lead developer for Strathcom Media (Go Auto subsidiary), improving delivery consistency and technical quality across internal agency initiatives

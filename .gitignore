@@ -27,3 +27,4 @@ dist-ssr
 /wip/cover.html
 /cover/*
 !/cover/index.html
+/.docs
